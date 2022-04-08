@@ -1,0 +1,4 @@
+cn\aokan\common\Result.class
+cn\aokan\pojo\vo\PaymentVo.class
+cn\aokan\pojo\dto\PaymentDto.class
+cn\aokan\pojo\enetiy\Payment.class
